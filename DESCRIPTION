@@ -1,7 +1,7 @@
 Package: template
 Title: What the Package Does (one line, title case)
 Version: 0.0.0.9000
-Authors@R: person('Vas', 'Dakos')
+Authors@R: person('Vas', 'Dakos', email='vas@umontpellier.fr',role=c('aut','cre'))
 Description: What the package does (one paragraph).
 Depends: R (>= 3.5.1)
 License: GPL-3 + file LICENSE
